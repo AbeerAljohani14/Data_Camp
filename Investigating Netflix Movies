@@ -1,0 +1,20 @@
+
+ChatGPT
+Title: Exploratory Data Analysis: Are Netflix Movies Getting Shorter?
+
+Introduction:
+In this project, I delved into the realm of exploratory data analysis to investigate whether Netflix movies are getting shorter over time. Using Python, along with libraries like pandas and matplotlib, I analyzed a dataset containing information about Netflix movies' durations.
+
+Data Collection:
+I obtained a dataset from a reliable source containing information about Netflix movies, including their release years and durations. The dataset was cleaned and preprocessed to ensure its reliability for analysis.
+
+Data Analysis:
+After loading the dataset into a pandas DataFrame, I began the analysis by examining the overall distribution of movie durations. I created a histogram to visualize the distribution and observed any noticeable patterns or trends.
+
+Next, I segmented the data by release year to explore if there were any changes in movie durations over time. Using groupby operations in pandas, I calculated the average duration of Netflix movies for each year and plotted the results using matplotlib.
+
+Results:
+Contrary to the initial hypothesis, the analysis revealed that Netflix movies are not getting shorter over time. In fact, the average duration of Netflix movies has been increasing steadily over the years.
+
+Conclusion:
+Based on the comprehensive exploratory data analysis conducted in this project, it can be confidently stated that Netflix movies are not getting shorter over time. This insight can be valuable for understanding trends in the film industry and consumer preferences. Further research could explore the factors contributing to the increasing duration of Netflix movies and their implications for content consumption.
